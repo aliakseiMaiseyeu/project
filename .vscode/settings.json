@@ -1,0 +1,30 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "workbench.colorTheme": "Oceanic Next",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "explorer.confirmDelete": false,
+    "editor.formatOnPaste": false,
+    "editor.detectIndentation": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.iconTheme": "vscode-icons",
+
+    "liveSassCompile.settings.formats":[
+
+    {
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "~/../css"
+    }
+],
+"liveSassCompile.settings.autoprefix":[
+    "> 1%",
+    "last 2 versions"
+]
+}
